@@ -1,0 +1,5 @@
+This build of WhistlerXP (Codename Sunrise64) is a internal build.
+Leaking this build may cause you* to be kicked out of the development team.
+Please report any bugs and suggestions to the WhistlerXP dev team.
+
+*the person installing this build.
